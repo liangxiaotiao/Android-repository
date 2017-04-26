@@ -1,3 +1,10 @@
+2017 4/24-4/28
+
+1 [Requirement] 主界面item中图片和文字的引用方式的更换
+2 [Requirement] APP中DEBUG界面新增订单查询界面
+3 [Enhancement] CILSDK中新增了两个查询的方法(批次BatchNum,参考号RefNum)
+
+
 2017 4/17-4/21
 APP中增加混淆代码 完成自测
 提取SDK混淆代码
