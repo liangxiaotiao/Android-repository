@@ -4,6 +4,10 @@ Bugfix 错误修复
 
 2017 5/13
 1[Enhancement]通过平台动态控制预授权手输卡号开关
+2[Bugfix ]本地信息点击检查更新无用
+3[Enhancement]增加百馏卡的混淆信息
+4[Enhancement]Facebook 调试工具Stetho
+5[Bugfix]预授权授权码弹出键盘
 
 2017 5/8-5/12
 1[Bugfix]预授权完成页面中授权码无法用自定义键盘输入问题
