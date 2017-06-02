@@ -2,9 +2,13 @@ Enhancement 增加
 Requirement 需求
 Bugfix 错误修复
 
+2017 5/31-6/2
+1 [Bugfix]预授权手输卡号有效期必输
+2 [Bugfix]预授权手输卡号格式限制
+3 [Bugfix]SDK stetho
+4 [Requirement]设置页面添加DeviceToken推送条目
 
 2017 5/22-5/27
-
 1 更换SmartPosDemo并增加下载链接
 2 协助SDK接入方接入外卡业务
 
