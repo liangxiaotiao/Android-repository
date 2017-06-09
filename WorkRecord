@@ -2,6 +2,13 @@ Enhancement 增加
 Requirement 需求
 Bugfix 错误修复
 
+2017 6/5-6/9
+1 [Requirement] 将激活接口的DeviceToken设置为非必须字段
+2 [Requirement]本地记录是否已经成功获取DeviceToken,并上传至服务器。主页面默认上传
+3 [Requirement]设置页面添加获取推送Token条目
+4 [Enhancement]SDK中添加上传DeviceToken的API
+5 [Bugfix] 判断语句错误
+
 2017 5/31-6/2
 1 [Bugfix]预授权手输卡号有效期必输
 2 [Bugfix]预授权手输卡号格式限制
