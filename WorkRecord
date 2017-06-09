@@ -7,7 +7,7 @@ Bugfix 错误修复
 2 [Requirement]本地记录是否已经成功获取DeviceToken,并上传至服务器。主页面默认上传
 3 [Requirement]设置页面添加获取推送Token条目
 4 [Enhancement]SDK中添加上传DeviceToken的API
-5 [Bugfix] 判断语句错误
+5 [Bugfix] 修改首页上传Token判断语句
 
 2017 5/31-6/2
 1 [Bugfix]预授权手输卡号有效期必输
