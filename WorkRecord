@@ -2,6 +2,11 @@ Enhancement 增加
 Requirement 需求
 Bugfix 错误修复
 
+2017 6/12-6/16
+1 [Bugfix] 去掉主页面上传Token成功/失败提示
+2 学习8583报文规范
+3 协助SDK接入方接入外卡业务
+ 
 2017 6/5-6/9
 1 [Requirement] 将激活接口的DeviceToken设置为非必须字段
 2 [Requirement]本地记录是否已经成功获取DeviceToken,并上传至服务器。主页面默认上传
