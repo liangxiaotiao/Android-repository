@@ -2,6 +2,11 @@ Enhancement 增加
 Requirement 需求
 Bugfix 错误修复
 
+2017 6/19-6/23
+1[Enhancement] 密钥索引可以配置,A8密钥区号kapid可配置
+2[Bugfix] 保留默认的索引值
+3更新SDK接入技术文档
+
 2017 6/12-6/16
 1 [Bugfix] 去掉主页面上传Token成功/失败提示
 2 学习8583报文规范
