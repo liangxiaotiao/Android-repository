@@ -2,6 +2,11 @@ Enhancement 增加
 Requirement 需求
 Bugfix 错误修复
 
+2017 7/10-7/14
+1[Requirement]手输卡号联机获取开关权限修改
+2[Bugfix] 合并代码，解决CommonCardHandlerActivity类的冲突
+3 评估测试厂商百富A920智能POS，SDK的接入评测，最终经团队与周洋评估目前A920还不具备成熟的接入条件。
+
 2017 7/3-7/7
 1[Bugfix]  j激活前版本更新异常
 2[Bugfix]  移除首页多余下载更新代码
