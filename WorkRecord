@@ -119,9 +119,6 @@ APP
 
 
 
-AS数据库链接操作 插件 DB Browser
-SQL语句:
-select * from mspcfg.term_info t where term_serial = 'N9NL10087092';
-update mspcfg.term_info set device_token = null where term_serial = 'N9NL10087092';
+
 
 
