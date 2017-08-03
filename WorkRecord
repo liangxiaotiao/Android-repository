@@ -2,6 +2,13 @@ Enhancement 增加
 Requirement 需求
 Bugfix 错误修复
 
+
+2017 7/31-8/4
+1[Enhancement] 系统设置页面新增功能连接入口
+2[Enhancement] 新增功能连接方式界面,添加两个switch,开启互斥
+3[Enhancement] 添加OptionMaterialDialog
+4[Enhancement] diglog message里面用spannable描述提示颜色
+
 2017 7/10-7/14
 1[Requirement]手输卡号联机获取开关权限修改
 2[Bugfix] 合并代码，解决CommonCardHandlerActivity类的冲突
